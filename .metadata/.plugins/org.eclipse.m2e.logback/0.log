@@ -48,3 +48,6 @@
 2026-04-13 16:31:41,322 [sshd-JGitSshClient[63bf86db]-nio2-thread-5] INFO  o.a.s.c.k.e.p.HostBoundPubkeyAuthentication - Server announced support for publickey-hostbound@openssh.com version 0
 2026-04-13 16:31:43,037 [sshd-JGitSshClient[5dee40ca]-nio2-thread-5] INFO  o.a.s.c.k.e.p.HostBoundPubkeyAuthentication - Server announced support for publickey-hostbound@openssh.com version 0
 2026-04-13 16:31:46,116 [sshd-JGitSshClient[12a4135a]-nio2-thread-5] INFO  o.a.s.c.k.e.p.HostBoundPubkeyAuthentication - Server announced support for publickey-hostbound@openssh.com version 0
+2026-04-13 16:58:28,505 [sshd-JGitSshClient[6299a88b]-nio2-thread-5] INFO  o.a.s.c.k.e.p.HostBoundPubkeyAuthentication - Server announced support for publickey-hostbound@openssh.com version 0
+2026-04-13 16:58:29,569 [sshd-JGitSshClient[8d2da]-nio2-thread-5] INFO  o.a.s.c.k.e.p.HostBoundPubkeyAuthentication - Server announced support for publickey-hostbound@openssh.com version 0
+2026-04-13 16:58:31,834 [sshd-JGitSshClient[4b5198d1]-nio2-thread-5] INFO  o.a.s.c.k.e.p.HostBoundPubkeyAuthentication - Server announced support for publickey-hostbound@openssh.com version 0
