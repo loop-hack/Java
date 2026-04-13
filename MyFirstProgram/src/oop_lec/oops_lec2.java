@@ -1,5 +1,7 @@
 package oop_lec;
 
+import oop_lec.Singleton;
+
 public class oops_lec2 {
 	
 	
@@ -47,6 +49,13 @@ public class oops_lec2 {
 		System.out.println(staticBlock.a + " " + staticBlock.b);
 		
 		
+		// Using singleton Class
+		
+		Singleton first = Singleton.getInstance();
+		
+		Singleton Second = Singleton.getInstance(); // here we do not have two objects but we have two referance pointing to same object 
+		
+		
 		
 	}
 	
@@ -77,6 +86,7 @@ public class oops_lec2 {
 	void lift() {
 		System.out.println("Press The Key Nigga!!");
 	}
+	
 	
 	
 	
