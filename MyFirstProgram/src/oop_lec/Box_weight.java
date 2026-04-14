@@ -6,6 +6,18 @@ public class Box_weight extends Box{
 	
 	double weight; // This is the new property that I added 
 	
+	
+	Box_weight( Box_weight other){  // here other is type of Box_weight
+		
+		// since super is invoking parent class but we are passing child object
+		
+		super(other);  // same as Box other = new Box_weight(a,b,c,d)
+		
+		
+		weight = other.weight; // we need to initialize weight separately 
+							// super only initialized l,w,h not weight
+	}
+	
 	Box_weight(){
 		this.weight = -1; 
 	}
