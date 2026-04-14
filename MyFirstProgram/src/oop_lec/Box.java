@@ -5,6 +5,7 @@ public class Box {
 	double h;
 	double l;
 	double w;
+	double weight;
 	
 	public Box(){
 		this.h = -1;

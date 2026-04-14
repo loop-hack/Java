@@ -30,6 +30,8 @@ public class oops_lec3 {
 		
 //		Box box4 = new Box_weight(1,2,3);  This isn't allowed
 		
+		
+		
 	}
 	
 
