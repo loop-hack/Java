@@ -1,4 +1,4 @@
-package oop_lec;
+package oop_lec.inheritance;
 
 public class Box_weight extends Box{
 

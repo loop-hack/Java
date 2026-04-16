@@ -1,4 +1,4 @@
-package oop_lec;
+package oop_lec.inheritance;
 
 public class oops_lec3 {
 	
