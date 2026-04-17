@@ -5,7 +5,7 @@ import java.util.Arrays;
 
 public class customGenericArrayList<T> { // Here this <T> will be replacing values like Integer, String, etc
 	
-	private Object[] data;
+	private Object[] data;   // we have used Java master data type class object that has all int str bool etc
 	
 	private static int DEFAULT_SIZE = 10;
 	
