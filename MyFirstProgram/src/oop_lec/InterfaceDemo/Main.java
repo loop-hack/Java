@@ -4,11 +4,15 @@ public class Main {
 	
 	public static void main(String[] args) {
 		
-		Car Ferrari = new Car();
-		Ferrari.start();
-		Ferrari.stop();
-		Ferrari.acc();
-		Ferrari.brake();
+		Car ferrari = new Car();
+		ferrari.start();
+		ferrari.stop();
+		ferrari.acc();
+		ferrari.brake();
+		
+		
+		Media carMedia = new Car();
+		carMedia.stop();
 		
 	}
 

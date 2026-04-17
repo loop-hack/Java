@@ -1,6 +1,6 @@
 package oop_lec.InterfaceDemo;
 
-public class Car implements Engine, Break{
+public class Car implements Engine, Break, Media{
 	
 	@Override
 	public void start() {
