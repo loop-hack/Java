@@ -14,6 +14,15 @@ public class Main {
 		Media carMedia = new Car();
 		carMedia.stop();
 		
+		
+		NewCar audi = new NewCar();
+		audi.start();
+		audi.stop();
+		audi.StartMusic();
+		audi.StopMusic();
+		
+		
+		
 	}
 
 }
