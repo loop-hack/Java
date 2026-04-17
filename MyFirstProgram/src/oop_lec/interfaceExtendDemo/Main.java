@@ -19,6 +19,16 @@ public class Main implements b{
 		obj1.greet();
 		obj1.fun();  // fun() is not in b but it still gets called because it extends A that have fun() in it
 		
+		
+		// Using Static method
+		
+		// You can't create instances/object of static methods that mean you can't call it through object name that is obj1 here 
+		// 
+		
+		A.Kill(); // Static is called using name of the class
+		
+
+		
 	}
 
 }
