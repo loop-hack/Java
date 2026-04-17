@@ -16,9 +16,9 @@ public class Main {
 		
 		
 		NewCar audi = new NewCar();
-		audi.start();
+		audi.start();  // calling engine class bcz of the way NerCar() class is defined
 		audi.stop();
-		audi.StartMusic();
+		audi.StartMusic(); // also using start() but here it is defined differently only for CDplayer() class
 		audi.StopMusic();
 		
 		
