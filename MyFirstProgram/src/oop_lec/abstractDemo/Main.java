@@ -14,6 +14,7 @@ public class Main {
 		System.out.println("I am " + obj1.age + " years old.");
 		obj1.career("War Loard");
 		obj1.partner("Gamma", 100000);
+		obj1.Fun_Activities("Boxing"); // Here we can see that we are able to use methods of abstract class
 		
 		
 		System.out.println("\n=================================\n");
@@ -23,6 +24,7 @@ public class Main {
 		System.out.println("I am " + obj2.age + " years old.");
 		obj2.career("Kidnapper");
 		obj2.partner("Theta", 23);
+		obj2.Fun_Activities("Killing");
 	}
 
 }

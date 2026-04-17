@@ -15,6 +15,15 @@ public abstract class parent {
 		this.age = age;
 	}
 	
+	
+	// Adding normal methods in abstract class to use it later
+	
+	void Fun_Activities(String n) {
+		System.out.println("I love to do " + n + " .");
+	}
+	
+	// abstract methods
+	
 	abstract void career(String name);
 	
 	abstract void partner(String name, int age);
