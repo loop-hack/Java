@@ -1,6 +1,6 @@
 package oop_lec.abstractDemo;
 
-public class Son extends parent{
+public class Daughter extends parent{
 	
 	@Override
 	void career(String name) {
@@ -10,8 +10,7 @@ public class Son extends parent{
 	
 	@Override
 	void partner(String name, int age) {
-		System.out.println("I love " + name + ". She is " + age + " years old.");
-		
+		System.out.println("I love " + name + ". He is " + age);
 	}
 
 }
