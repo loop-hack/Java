@@ -28,7 +28,6 @@ public class Main implements b{
 		A.Kill(); // Static is called using name of the class
 		
 
-		
 	}
 
 }
