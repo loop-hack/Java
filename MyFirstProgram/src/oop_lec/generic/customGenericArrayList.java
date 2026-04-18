@@ -1,6 +1,7 @@
 package oop_lec.generic;
 
 import java.util.ArrayList;
+
 import java.util.Arrays;
 
 public class customGenericArrayList<T> { // Here this <T> will be replacing values like Integer, String, etc
