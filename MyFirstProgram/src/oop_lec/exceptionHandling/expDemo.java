@@ -37,6 +37,5 @@ public class expDemo {
 		
 		return a/b;
 	}
-	
 
 }
